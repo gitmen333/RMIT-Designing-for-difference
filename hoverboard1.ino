@@ -1,6 +1,8 @@
 /*  Arduino DC Motor Control - PWM | H-Bridge | L298N
          Example 02 - Arduino Robot Car Control
     by Dejan Nedelkovski, www.HowToMechatronics.com
+
+    Code edited by Andrew Eow | RMIT University 2023
 */
 
 #define dir1 8
